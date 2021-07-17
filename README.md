@@ -10,5 +10,5 @@ Each file includes the following:
 
 All codes were written in R.
 
-Special Thanks to Professor **Pisung Kang** of School of Industrial Management Engineering, Korea University, for giving me an A.
+Special Thanks to Professor **Pilsung Kang** of School of Industrial Management Engineering, Korea University, for giving me an A.
 
